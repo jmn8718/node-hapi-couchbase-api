@@ -1,0 +1,24 @@
+{
+  "name": "node-hapi-couchbase-api",
+  "version": "0.0.1",
+  "description": "API with hapi and couchbase",
+  "main": "src/index.js",
+  "repository": {
+    "url": "https://github.com/jmn8718/node-hapi-couchbase-api.git",
+    "type": "git"
+  },
+  "author": "Jose Miguel Navarro <jmn8718@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "dependencies": {
+    "couchbase": "^2.3.0",
+    "hapi": "^16.1.0",
+    "joi": "^10.2.0",
+    "ottoman": "^1.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
