@@ -8,3 +8,6 @@ REST API to perform CRUD operations.
 ## resources
 - users
 - posts
+
+## Publication
+https://blog.couchbase.com/2017/february/develop-a-rest-api-with-couchbase-ottoman-nodejs-hapijs
