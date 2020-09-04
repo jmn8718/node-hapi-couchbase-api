@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "couchbase": "^2.3.0",
-    "hapi": "^16.1.0",
+    "hapi": "^18.1.0",
     "joi": "^10.2.0",
     "ottoman": "^1.0.4"
   },
